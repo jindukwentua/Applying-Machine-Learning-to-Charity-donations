@@ -1,0 +1,51 @@
+Variable,Description
+CARD_PROM_12,Number of card promotions received in the last 12 months
+CLUSTER_CODE ,54 socio-economic cluster codes
+CONTROL_NUMBER ,The control number uniquely identifies each member of the analysis population
+DONOR_AGE ,Age as of June 1997
+DONOR_GENDER ,Actual or inferred gender
+FILE_AVG_GIFT ,Average gift from raw data
+FILE_CARD_GIFT ,Average card gift from raw data
+FREQUENCY_STATUS-97NK ,Frequency status as of June 1997
+HOME_OWNER ,H=Homeowner; U=Unknown
+INCOME_GROUP ,7 income group levels
+IN_HOUSE ,A final field identifies donors who are part of the organization's In House program
+LAST_GIFT_AMT ,Amount of most recent donation
+LIFETIME_AVG_GIFT_AMT ,Overall average gift amount
+LIFETIME_CARD_PROM ,Total number of card promotions received
+LIFETIME_GIFT_AMOUNT ,Total gift amount given
+LIFETIME_GIFT_COUNT ,Total number donations given
+LIFETIME_GIFT_RANGE ,Maximum less minimum gift amount
+LIFETIME_MAX_GIFT_AMT ,Maximum gift amount
+LIFETIME_MIN_GIFT_AMT,Minimum gift amount
+LIFETIME_PROM ,Total number of promotions received
+MEDIAN_HOME_VALUE,Median home value in $100's
+MEDIAN_HOUSEHOLD_INCOME,Median household income in $100's
+MONTHS_SINCE_FIRST_GIFT ,First donation date from June 1997
+MONTHS_SINCE_LAST_GIFT ,Last donation date from June 1997
+MONTHS_SINCE_LAST_PROM_RESP,Number of months since donor has responded to a promotion date from June 1997
+MONTHS_SINCE_ORIGIN ,This number is derived from MONTHS_SINCE_FIRST
+MOR_HIT_RATE ,Total number of known times the donor has responded to a mail order offer other than the national charitable organization's.
+NUMBER_PROM_12,Number of promotions received in the last 12 months
+OVERLAY_SOURCE ,M=Metromail; P=Polk; B=Both
+PCT_ATTRIBUTE1 ,Percent with attribute1 in the block
+PCT_ATTRIBUTE2 ,Percent with attribute2 in the block
+PCT_ATTRIBUTE3 ,Percent with attribute3 in the block
+PCT_ATTRIBUTE4 ,Percent with attribute4 in the block
+PCT_OWNER_OCCUPIED ,Percent of owner-occupied housing
+PEP_STAR ,"STAR-status ever (1=yes, 0=no)"
+PER_CAPITA_INCOME ,Per capita income in dollars
+PUBLISHED_PHONE ,Indicator of presence of published telephone listing
+RECENCY_STATUS_96NK ,Recency status as of June 1996
+RECENT_AVG_CARD_GIFT_AMT ,Average gift amount to card promotions since June 1994
+RECENT_AVG_GIFT_AMT ,Average gift amount since June 1994
+RECENT_CARD_RESPONSE_COUNT ,Response count since June 1994
+RECENT_CARD_RESPONSE_PROP,Response proportion since June 1994
+RECENT_RESPONSE_COUNT,Response count since June 1994
+RECENT_RESPONSE_PROP,Response proportion since June 1994
+RECENT_STAR_STATUS ,"STAR (1,0) status since June 1994"
+SES ,5 socio-economic cluster codes
+TARGET_B ,"Response to 97NK solicitation (1=yes, 0=no)"
+TARGET_D ,Response amount to 97NK solicitation (missing if no response)
+URBANICITY ,"U=Urban; C=City; S=Suburban; T=Town; R=Rural, ?=Unknown"
+WEALTH_RATING ,10 wealth rating groups
